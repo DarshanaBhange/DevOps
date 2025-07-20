@@ -1,1 +1,1 @@
-print_rhferoilfkgrbfdoikj)
+print(_"rhferoilfkgrbfdoikj")
